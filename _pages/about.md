@@ -19,7 +19,9 @@ redirect_from:
 
 # 🧑‍💻 Biography
 
-I am an incoming Ph.D. student of the School of Aritificial Intelligence in Peking University, following <a href='https://muhanzhang.github.io'>Prof. Muhan Zhang</a>. My recent work focuses on the expressive power of Distance GNN.
+I am an incoming Ph.D. student of the School of Aritificial Intelligence in Peking University, following <a href='https://muhanzhang.github.io'>Prof. Muhan Zhang</a>. I'm also a member of <a href='https://github.com/GraphPKU'>GraphPKU Lab</a>.
+
+My recent work focuses on the expressive power of Distance GNN, and I'm still in the learning stage. If you're also interested in related fields, welcome to contact me! 
 
 
 
