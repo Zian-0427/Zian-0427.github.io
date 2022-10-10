@@ -33,8 +33,8 @@ My recent work focuses on the expressive power of Distance GNN. If you're also i
 - **2020.12**, China National Scholarship for Undergraduates
 
 # 📖 Educations
-- **2023.09 -**        , Incoming Ph.D., School of Aritificial Intelligence, Peking University
-- **2019.09 - 2023.06**, B.E.,           School of Future Technology,        Tianjin University
+- **2023.09 -**, Incoming Ph.D., School of Aritificial Intelligence, Peking University
+- **2019.09 - 2023.06**, B.E., School of Future Technology, Tianjin University
 
 # 💻 Internships
 - **2021.08 - 2022.04**, <a href='http://fi.ee.tsinghua.edu.cn'>Fib-Lab</a>, Tsinghua University
