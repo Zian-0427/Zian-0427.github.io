@@ -17,19 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 🧑‍💻 Biography
+
 I am an incoming Ph.D. student of the School of Aritificial Intelligence in Peking University, following <a href='https://muhanzhang.github.io'>Prof. Muhan Zhang</a>. My recent work focuses on the expressive power of Distance GNN.
 
 
 
 
 # 🎖 Honors and Awards
-- **2022.12**, 2022 China National Scholarship
-- **2021.12**, Outstanding Student Pioneer of Tianjin University (Nomination Award)
-- **2021.12**, 2021 China National Scholarship
-- **2020.12***, 2020 China National Scholarship
+- **2022.12**,  2022 China National Scholarship
+- **2021.12**,  Outstanding Student Pioneer of Tianjin University (Nomination Award)
+- **2021.12**,  2021 China National Scholarship
+- **2020.12**,  2020 China National Scholarship
 
 # 📖 Educations
-- **2023.06 -**, Incoming Ph.D., School of Aritificial Intelligence, Peking University
+- **2023.06 -**,         Incoming Ph.D., School of Aritificial Intelligence, Peking University
 - **2019.09 - 2023.06**, B.E., School of Future Technology, Tianjin University
 
 # 💻 Internships

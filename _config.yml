@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zi'an Li (李自安)"
+title                    : "Zi'an Li "
 description              : "This is the personal homepage of Zi'an Li."
 repository               : "Zian-0427/Zian-0427.github.io"
 google_scholar_stats_use_cdn : false
@@ -21,9 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zi'an Li"
+  name             : "Zi'an Li (李自安)"
   avatar           : "images/大头照.png"
-  bio              : "Tianjin University \n Peking University"
+  bio              : "Tianjin University
+                      Peking University"
   location         : "Tianjin, China"
   employer         :
   pubmed           : 
