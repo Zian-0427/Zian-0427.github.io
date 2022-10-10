@@ -1,1 +1,1 @@
-bundle exec jekyll liveserve
+BUNDLE_GEMFILE="Gemfile" bundle exec jekyll liveserve
