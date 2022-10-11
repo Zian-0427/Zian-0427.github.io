@@ -27,10 +27,10 @@ My recent work focuses on the expressive power of Distance GNN. If you're also i
 
 
 # 🎖 Honors and Awards
-- **2021.12**, Outstanding Student Pioneer of Tianjin University (Nomination Award) (only 10 awardees and 5 nominated awardees university-wide per year)
-- **2021.04**, Meritorious Winner (First Prize) of ICM: Interdisciplinary Contest In Modeling
-- **2021.08**, First Prize of National Zhou Peiyuan Competition on Mechanics (~0.3%)
 - **2020.12, 2021.12, 2022.12**, National Scholarship for Undergraduate Student
+- **2021.12**, Outstanding Student Pioneer of Tianjin University (Nomination Award) (only 10 awardees and 5 nominated awardees university-wide per year)
+- **2021.08**, First Prize of National Zhou Peiyuan Competition on Mechanics (~0.3%)
+- **2021.04**, Meritorious Winner (First Prize) of ICM: Interdisciplinary Contest In Modeling
 
 # 📖 Educations
 - **2023.09 -**, Incoming Ph.D., School of Aritificial Intelligence, Peking University
