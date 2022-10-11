@@ -21,7 +21,7 @@ redirect_from:
 
 I am an incoming Ph.D. student of <a href='https://www.cis.pku.edu.cn'>the School of Aritificial Intelligence</a> in Peking University, following <a href='https://muhanzhang.github.io'>Prof. Muhan Zhang</a>. I'm also a member of GraphPKU Lab (<a href='https://github.com/GraphPKU'>Lab github</a>).
 
-My recent work focuses on the expressive power of Distance GNN. If you're also interested in related fields, welcome to contact me! 
+My recent work focuses on the expressive power of Distance GNN, trying to prove that GNN with pure distance information can perform as well as (even outperform) those GNNs combined with high-order geometric information, such as angle and dihedral angle information, on molecule related prediction tasks. If you're also interested in related fields, welcome to contact me! 
 
 
 
