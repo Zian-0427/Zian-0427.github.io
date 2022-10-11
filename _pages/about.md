@@ -33,7 +33,7 @@ My recent work focuses on the expressive power of Distance GNN. If you're also i
 - **2021.04**, Meritorious Winner (First Prize) of ICM: Interdisciplinary Contest In Modeling
 
 # 📖 Educations
-- **2023.09 -**, Incoming Ph.D., School of Aritificial Intelligence, Peking University
+- <img src="../images/PKU logo.png" alt="PKU Logo" style="zoom:25%;" />**2023.09 -**, Incoming Ph.D., School of Aritificial Intelligence, Peking University
 - **2019.09 - 2023.06**, B.E., School of Future Technology, Tianjin University
 
 # 💻 Internships
