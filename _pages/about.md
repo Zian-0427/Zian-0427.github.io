@@ -19,7 +19,7 @@ redirect_from:
 
 # 🧑‍💻 Biography
 
-I am an incoming Ph.D. student of <a href='https://www.cis.pku.edu.cn'>the School of Aritificial Intelligence</a> in Peking University, following <a href='https://muhanzhang.github.io'>Prof. Muhan Zhang</a>. I'm also a member of <a href='https://github.com/GraphPKU'>GraphPKU Lab</a>.
+I am an incoming Ph.D. student of <a href='https://www.cis.pku.edu.cn'>the School of Aritificial Intelligence</a> in Peking University, following <a href='https://muhanzhang.github.io'>Prof. Muhan Zhang</a>. I'm also a member of GraphPKU Lab (<a href='https://github.com/GraphPKU'>Lab github</a>).
 
 My recent work focuses on the expressive power of Distance GNN. If you're also interested in related fields, welcome to contact me! 
 
