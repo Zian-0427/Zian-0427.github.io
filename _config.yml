@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zi'an Li (李自安)"
+title                    : "Zi'an Li's Personal Homepage"
 description              : "Personal homepage"
 repository               : "Zian-0427/Zian-0427.github.io"
 google_scholar_stats_use_cdn : false
