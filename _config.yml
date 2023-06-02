@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zi'an Li (李自安)"
-description              : "Personal homepage"
+description              : ""
 repository               : "Zian-0427/Zian-0427.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,7 +24,7 @@ author:
   name             : "Zian Li (李自安)"
   avatar           : "images/my_photo.png"
   bio              : "Done is better than perfect."
-  location         : "Tianjin, China"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : 
