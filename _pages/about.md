@@ -19,9 +19,9 @@ redirect_from:
 
 # 🧑‍💻 Biography
 
-I am an incoming Ph.D. student of <a href='https://www.cis.pku.edu.cn'>the School of Aritificial Intelligence</a> in Peking University, following <a href='https://muhanzhang.github.io'>Prof. Muhan Zhang</a>. I'm also a member of GraphPKU Lab (<a href='https://github.com/GraphPKU'>Lab github</a>).
+I am an incoming Ph.D. student of <a href='https://www.cis.pku.edu.cn'>the School of Intelligence Science and Technology</a> of Peking University, advised by <a href='https://muhanzhang.github.io'>Prof. Muhan Zhang</a>. I'm also a member of GraphPKU Lab (<a href='https://github.com/GraphPKU'>Lab github</a>).
 
-My recent work focuses on geometric deep learning and the expressiveness of GNNs. If you're also interested in related fields, welcome to contact me! 
+My recent work focuses on geometric deep learning and the expressiveness of graph neural networks. If you're also interested in related fields, welcome to contact me! 
 
 
 
@@ -37,3 +37,9 @@ My recent work focuses on geometric deep learning and the expressiveness of GNNs
 
 # 💻 Internships
 - **2021.08 - 2022.04**, <a href='http://fi.ee.tsinghua.edu.cn'>Fib-Lab</a>, Tsinghua University
+
+
+# 📃 Publications
+- **2023.2**, <a href='https://arxiv.org/pdf/2302.05743.pdf'>**Is Distance Matrix Enough for Geometric Deep Learning?**</a> <br/>
+  **Zian Li**, Xiyuan Wang, Yinan Huang, Muhan Zhang <br/>, <a href='https://github.com/GraphPKU/DisGNN'>(Source code)</a>
+
