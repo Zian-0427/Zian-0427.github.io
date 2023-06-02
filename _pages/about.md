@@ -40,6 +40,6 @@ My recent work focuses on geometric deep learning and the expressiveness of grap
 
 
 # 📃 Publications
-- **2023.2**, <a href='https://arxiv.org/pdf/2302.05743.pdf'>**Is Distance Matrix Enough for Geometric Deep Learning?**</a> <br/>
-  **Zian Li**, Xiyuan Wang, Yinan Huang, Muhan Zhang <br/>, <a href='https://github.com/GraphPKU/DisGNN'>(Source code)</a>
+- **2023.2**, <a href='https://arxiv.org/pdf/2302.05743.pdf'>**Is Distance Matrix Enough for Geometric Deep Learning?**</a>,
+  **Zian Li**, Xiyuan Wang, Yinan Huang, Muhan Zhang. <a href='https://github.com/GraphPKU/DisGNN'>(Source code)</a>
 
