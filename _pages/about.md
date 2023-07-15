@@ -19,9 +19,9 @@ redirect_from:
 
 # 🧑‍💻 Biography
 
-I am an incoming Ph.D. student of <a href='https://www.cis.pku.edu.cn'>the School of Intelligence Science and Technology</a> of Peking University, advised by <a href='https://muhanzhang.github.io'>Prof. Muhan Zhang</a>. I'm also a member of GraphPKU Lab (<a href='https://github.com/GraphPKU'>Lab github</a>).
+I am an incoming Ph.D. student of <a href='https://www.cis.pku.edu.cn'>the School of Intelligence Science and Technology</a> of Peking University, advised by <a href='https://muhanzhang.github.io'>Prof. Muhan Zhang</a>. Our group's github is (<a href='https://github.com/GraphPKU'>GraphPKU</a>).
 
-My recent work focuses on geometric deep learning and the expressiveness of graph neural networks. If you're also interested in related fields, welcome to contact me! 
+My recent work focuses on geometric deep learning. If you're also interested in related fields, welcome to contact me! 
 
 
 
@@ -32,7 +32,7 @@ My recent work focuses on geometric deep learning and the expressiveness of grap
 - **2021.04**, Meritorious Winner (First Prize) of ICM: Interdisciplinary Contest In Modeling
 
 # 📖 Educations
-- <img src="../images/PKU logo.png" alt="PKU Logo" style="zoom:25%;" />        **2023.09 -**, Incoming Ph.D., School of Aritificial Intelligence, Peking University
+- <img src="../images/PKU logo.png" alt="PKU Logo" style="zoom:25%;" />        **2023.09 -**, Incoming Ph.D., School of Intelligence Science and Technology, Peking University
 - <img src="../images/TJU logo.png" alt="TJU Logo" style="zoom:5.95%;" />        **2019.09 - 2023.06**, B.E., School of Future Technology, Tianjin University
 
 # 💻 Internships
