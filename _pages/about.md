@@ -40,6 +40,4 @@ My recent work focuses on geometric deep learning. If you're also interested in 
 
 
 # 📃 Publications
-- **2023.2**, <a href='https://arxiv.org/pdf/2302.05743.pdf'>**Is Distance Matrix Enough for Geometric Deep Learning?**</a>,
-  **Zian Li**, Xiyuan Wang, Yinan Huang, Muhan Zhang. <a href='https://github.com/GraphPKU/DisGNN'>(Source code)</a>
-
+- [NeurIPS 2023] **Zian Li**, Xiyuan Wang, Yinan Huang, Muhan Zhang, <a href='https://arxiv.org/pdf/2302.05743.pdf'>**Is Distance Matrix Enough for Geometric Deep Learning?**</a>, Advances in Neural Information Processing Systems, 2023. <a href='https://github.com/GraphPKU/DisGNN'>(Source code)</a>
