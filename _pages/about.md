@@ -33,7 +33,7 @@ My recent work focuses on geometric deep learning. If you're also interested in 
 
 # 📖 Educations
 - <img src="../images/PKU logo.png" alt="PKU Logo" style="zoom:25%;" />        **2023.09 -**, Incoming Ph.D., School of Intelligence Science and Technology, Peking University
-- <img src="../images/TJU logo.png" alt="TJU Logo" style="zoom:5.95%;" />        **2019.09 - 2023.06**, B.E., School of Future Technology, Tianjin University
+- <img src="../images/TJU logo.png" alt="TJU Logo" style="zoom:5.95%;" />        **2019.09 - 2023.07**, B.E., School of Future Technology, Tianjin University
 
 # 💻 Internships
 - **2021.08 - 2022.04**, <a href='http://fi.ee.tsinghua.edu.cn'>Fib-Lab</a>, Tsinghua University
