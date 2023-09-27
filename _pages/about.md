@@ -19,7 +19,7 @@ redirect_from:
 
 # 🧑‍💻 Biography
 
-I am an incoming Ph.D. student of <a href='https://www.cis.pku.edu.cn'>the School of Intelligence Science and Technology</a> of Peking University, advised by <a href='https://muhanzhang.github.io'>Prof. Muhan Zhang</a>. Our group's github is <a href='https://github.com/GraphPKU'>GraphPKU</a>.
+I am now a Ph.D. student of <a href='https://www.cis.pku.edu.cn'>the School of Intelligence Science and Technology</a> of Peking University, advised by <a href='https://muhanzhang.github.io'>Prof. Muhan Zhang</a>. Our group's github page is <a href='https://github.com/GraphPKU'>GraphPKU</a>.
 
 My recent work focuses on geometric deep learning. If you're also interested in related fields, welcome to contact me! 
 
