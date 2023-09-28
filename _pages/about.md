@@ -32,7 +32,7 @@ My recent work focuses on geometric deep learning. If you're also interested in 
 - **2021.04**, Meritorious Winner (First Prize) of ICM: Interdisciplinary Contest In Modeling
 
 # 📖 Educations
-- <img src="../images/PKU logo.png" alt="PKU Logo" style="zoom:25%;" />        **2023.09 -**, Incoming Ph.D., School of Intelligence Science and Technology, Peking University
+- <img src="../images/PKU logo.png" alt="PKU Logo" style="zoom:25%;" />        **2023.09 -**, Ph.D. student, School of Intelligence Science and Technology, Peking University
 - <img src="../images/TJU logo.png" alt="TJU Logo" style="zoom:5.95%;" />        **2019.09 - 2023.07**, B.E., School of Future Technology, Tianjin University
 
 # 💻 Internships
@@ -40,4 +40,4 @@ My recent work focuses on geometric deep learning. If you're also interested in 
 
 
 # 📃 Publications
-- <color=blue>[NeurIPS 2023]</color> **Zian Li**, Xiyuan Wang, Yinan Huang, Muhan Zhang, <a href='https://arxiv.org/pdf/2302.05743.pdf'>**Is Distance Matrix Enough for Geometric Deep Learning?**</a>, *Advances in Neural Information Processing Systems, 2023*. <a href='https://github.com/GraphPKU/DisGNN'>(Source code)</a> 
+- **[NeurIPS 2023]** **Zian Li**, Xiyuan Wang, Yinan Huang, Muhan Zhang, <a href='https://arxiv.org/pdf/2302.05743.pdf'>**Is Distance Matrix Enough for Geometric Deep Learning?**</a>, *Advances in Neural Information Processing Systems, 2023*. <a href='https://github.com/GraphPKU/DisGNN'>(Source code)</a> 
