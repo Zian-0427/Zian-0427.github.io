@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zi'an Li (李自安)"
+title                    : "Zian Li (李自安)"
 description              : ""
 repository               : "Zian-0427/Zian-0427.github.io"
 google_scholar_stats_use_cdn : false
@@ -26,7 +26,7 @@ author:
   bio              : "Done is better than perfect."
   location         : "Beijing, China"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : 
   email            : "zian@stu.pku.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
