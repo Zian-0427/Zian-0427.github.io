@@ -21,7 +21,7 @@ redirect_from:
 
 I am now a Ph.D. student of <a href='https://www.cis.pku.edu.cn'>the School of Intelligence Science and Technology</a> of Peking University, advised by <a href='https://muhanzhang.github.io'>Prof. Muhan Zhang</a>. Our group's github page is <a href='https://github.com/GraphPKU'>GraphPKU</a>.
 
-My recent work focuses on geometric deep learning. If you're also interested in related fields, welcome to contact me! 
+My recent work is centered around geometric deep learning, particularly on the exploration of the theoretical expressiveness of geometric models and designing powerful models within this field. If you're also interested in related fields, welcome to contact me! 
 
 
 
@@ -40,4 +40,6 @@ My recent work focuses on geometric deep learning. If you're also interested in 
 
 
 # 📃 Publications
-- **[NeurIPS 2023]** **Zian Li**, Xiyuan Wang, Yinan Huang, Muhan Zhang, <a href='https://arxiv.org/pdf/2302.05743.pdf'>**Is Distance Matrix Enough for Geometric Deep Learning?**</a>, *Advances in Neural Information Processing Systems, 2023*. <a href='https://github.com/GraphPKU/DisGNN'>(Source code)</a> 
+-  **Zian Li**, Xiyuan Wang, Shijia Kang, Muhan Zhang, <a href='https://arxiv.org/abs/2402.04836'>**On the Completeness of Invariant Geometric Deep Learning Models
+**</a>, *arXiv preprint, 2024*.
+-  **Zian Li**, Xiyuan Wang, Yinan Huang, Muhan Zhang, <a href='https://arxiv.org/pdf/2302.05743'>**Is Distance Matrix Enough for Geometric Deep Learning?**</a>, *Advances in Neural Information Processing Systems, 2023*. <a href='https://github.com/GraphPKU/DisGNN'>(Source code)</a> 
