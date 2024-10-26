@@ -32,7 +32,7 @@ My recent work is centered around geometric deep learning, particularly on the e
 - **2021.04**, Meritorious Winner (First Prize) of ICM: Interdisciplinary Contest In Modeling
 
 # 📖 Educations
-- <img src="../images/PKU logo.png" alt="PKU Logo" style="zoom:25%;" />        **2023.09 -**, Ph.D. student, School of Intelligence Science and Technology, Peking University
+- <img src="../images/PKU logo.png" alt="PKU Logo" style="zoom:25%;" />        **2023.09 -**, Ph.D. student, Institute for Artificial Intelligence, Peking University
 - <img src="../images/TJU logo.png" alt="TJU Logo" style="zoom:5.95%;" />        **2019.09 - 2023.07**, B.E., School of Future Technology, Tianjin University
 
 # 💻 Internships
