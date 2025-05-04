@@ -40,6 +40,6 @@ My recent work is centered around geometric deep learning, particularly on the e
 
 
 # 📃 Publications
--  **Zian Li**, Cai Zhou, Xiyuan Wang, Xingang Peng, Muhan Zhang, <a href='https://arxiv.org/abs/2410.03655'>**Geometric Representation Condition Improves Equivariant Molecule Generation**</a>, *arXiv preprint, 2024*.
+-  **Zian Li**, Cai Zhou, Xiyuan Wang, Xingang Peng, Muhan Zhang, <a href='https://arxiv.org/abs/2410.03655'>**Geometric Representation Condition Improves Equivariant Molecule Generation**</a>, *International Conference on Machine Learning (ICML-25), 2025, <span style="color:red">Spotlight</span>*.
 -  **Zian Li**, Xiyuan Wang, Shijia Kang, Muhan Zhang, <a href='https://arxiv.org/abs/2402.04836'>**On the Completeness of Invariant Geometric Deep Learning Models**</a>, *International Conference on Learning Representations (ICLR-25), 2025*. <a href='https://github.com/GraphPKU/GeoNGNN'>(Source code)</a> 
 -  **Zian Li**, Xiyuan Wang, Yinan Huang, Muhan Zhang, <a href='https://arxiv.org/pdf/2302.05743'>**Is Distance Matrix Enough for Geometric Deep Learning?**</a>, *Advances in Neural Information Processing Systems (NIPS-23), 2023*. <a href='https://github.com/GraphPKU/DisGNN'>(Source code)</a> 
