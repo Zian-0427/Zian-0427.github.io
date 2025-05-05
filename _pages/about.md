@@ -46,4 +46,4 @@ My recent work is centered around geometric deep learning, particularly on the e
 
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=-Yj2y8ATNu3_ZP_ifvFgzhjGrfygQELILQknou-AYAs&cl=ffffff&w=200"></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=9b6b48&w=a&t=n&d=-Yj2y8ATNu3_ZP_ifvFgzhjGrfygQELILQknou-AYAs&co=e3c887&w=400"></script>
