@@ -19,13 +19,13 @@ redirect_from:
 
 # 🧑‍💻 Biography
 
-I am now a Ph.D. student of <a href='https://www.ai.pku.edu.cn'>the Institute for Artificial Intelligence</a> of Peking University, advised by <a href='https://muhanzhang.github.io'>Prof. Muhan Zhang</a>. Our group's github page is <a href='https://github.com/GraphPKU'>GraphPKU</a>.
+I am now a third-year Ph.D. student of <a href='https://www.ai.pku.edu.cn'>the Institute for Artificial Intelligence</a> of Peking University, advised by <a href='https://muhanzhang.github.io'>Prof. Muhan Zhang</a>. Our group's github page is <a href='https://github.com/GraphPKU'>GraphPKU</a>.
 
-My recent work is centered around geometric deep learning, particularly on the exploration of the theoretical expressiveness of geometric models and designing powerful models within this field. If you're also interested in related fields, welcome to contact me! 
-
+My recent research focuses on generative models that span multiple modalities, including molecules, images, and videos. Previously, I have worked on geometric deep learning, particularly investigating the theoretical expressiveness of geometric models and developing powerful models within this domain. If you are interested in these areas, feel free to reach out!
 
 
 # 🎖 Honors and Awards
+- **2025.10**, Doctoral Dean’s Scholarship, Institute for Artificial Intelligence, Peking University
 - **2020.12, 2021.12, 2022.12**, National Scholarship for Undergraduate Student
 - **2021.12**, Outstanding Student Pioneer of Tianjin University (Nomination Award) (only 10 awardees and 5 nominated awardees university-wide per year)
 - **2021.08**, First Prize of National Zhou Peiyuan Competition on Mechanics (~0.3%)
@@ -40,6 +40,7 @@ My recent work is centered around geometric deep learning, particularly on the e
 
 
 # 📃 Publications
+-  **Zian Li**, Muhan Zhang, <a href='https://arxiv.org/abs/2510.13669'>**CanvasMAR: Improving Masked Autoregressive Video Generation With Canvas**</a>, *arxiv-preprint*.
 -  **Zian Li**, Cai Zhou, Xiyuan Wang, Xingang Peng, Muhan Zhang, <a href='https://arxiv.org/abs/2410.03655'>**Geometric Representation Condition Improves Equivariant Molecule Generation**</a>, *International Conference on Machine Learning (ICML-25), 2025, <span style="color:red">Spotlight</span>*.
 -  **Zian Li**, Xiyuan Wang, Shijia Kang, Muhan Zhang, <a href='https://arxiv.org/abs/2402.04836'>**On the Completeness of Invariant Geometric Deep Learning Models**</a>, *International Conference on Learning Representations (ICLR-25), 2025*. <a href='https://github.com/GraphPKU/GeoNGNN'>(Source code)</a> 
 -  **Zian Li**, Xiyuan Wang, Yinan Huang, Muhan Zhang, <a href='https://arxiv.org/pdf/2302.05743'>**Is Distance Matrix Enough for Geometric Deep Learning?**</a>, *Advances in Neural Information Processing Systems (NIPS-23), 2023*. <a href='https://github.com/GraphPKU/DisGNN'>(Source code)</a> 
