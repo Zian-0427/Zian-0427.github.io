@@ -36,6 +36,7 @@ My recent research focuses on generative models that span multiple modalities, i
 - <img src="../images/TJU logo.png" alt="TJU Logo" style="zoom:5.95%;" />        **2019.09 - 2023.07**, B.E., School of Future Technology, Tianjin University
 
 # 💻 Internships
+- **2026.01 - now**, <a href='https://klingai.com/global/'>Kling Team</a>
 - **2021.08 - 2022.04**, <a href='http://fi.ee.tsinghua.edu.cn'>Fib-Lab</a>, Tsinghua University
 
 
