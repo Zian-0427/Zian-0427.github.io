@@ -21,7 +21,7 @@ redirect_from:
 
 I am now a third-year Ph.D. student of <a href='https://www.ai.pku.edu.cn'>the Institute for Artificial Intelligence</a> of Peking University, advised by <a href='https://muhanzhang.github.io'>Prof. Muhan Zhang</a>. Our group's github page is <a href='https://github.com/GraphPKU'>GraphPKU</a>.
 
-My recent research focuses on generative models that span multiple modalities, including molecules, images, and videos. Previously, I have worked on geometric deep learning, particularly investigating the theoretical expressiveness of geometric models and developing powerful models within this domain. If you are interested in these areas, feel free to reach out!
+My research focuses on generative models that span multiple modalities, including videos, images and molecules. Recently, I have been particularly interested in autoregressive video generation, video world models, and native multimodal models. Before this, I have worked on geometric deep learning, particularly investigating the theoretical expressiveness of geometric models and developing powerful models within this domain. If you are interested in these areas, feel free to reach out!
 
 
 # 🎖 Honors and Awards
