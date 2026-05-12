@@ -41,12 +41,12 @@ My research focuses on generative models that span multiple modalities, includin
 
 
 # 📃 Publications
--  Shaoheng Yan<sup>*</sup>, **Zian Li**<sup>*</sup>, Cai Zhou, Qiaojing Huang, Kai Liu, Muhan Zhang, <a href='https://arxiv.org/abs/2605.07693'>**Toward Better Geometric Representations for Molecule Generative Models**</a>, *arxiv-preprint*.
--  Xinyuan Wei<sup>*</sup>, **Zian Li**<sup>*</sup>, Shaoheng Yan, Cai Zhou, Muhan Zhang, <a href='https://arxiv.org/abs/2605.07020'>**FlashMol: High-Quality Molecule Generation in as Few as Four Steps**</a>, *arxiv-preprint*.
+-  Shaoheng Yan<sup>&#42;</sup>, **Zian Li**<sup>&#42;</sup>, Cai Zhou, Qiaojing Huang, Kai Liu, Muhan Zhang, <a href='https://arxiv.org/abs/2605.07693'>**Toward Better Geometric Representations for Molecule Generative Models**</a>, *arxiv-preprint*.
+-  Xinyuan Wei<sup>&#42;</sup>, **Zian Li**<sup>&#42;</sup>, Shaoheng Yan, Cai Zhou, Muhan Zhang, <a href='https://arxiv.org/abs/2605.07020'>**FlashMol: High-Quality Molecule Generation in as Few as Four Steps**</a>, *arxiv-preprint*.
 -  Cai Zhou, Zijie Chen, **Zian Li**, Jike Wang, Kaiyi Jiang, Pan Li, Rose Yu, Muhan Zhang, Stephen Bates, Tommi Jaakkola, <a href='https://arxiv.org/abs/2602.15022'>**Rethinking Diffusion Models with Symmetries through Canonicalization with Applications to Molecular Graph Generation**</a>, *arxiv-preprint*.
 -  **Zian Li**, Muhan Zhang, <a href='https://arxiv.org/abs/2510.13669'>**CanvasMAR: Improving Masked Autoregressive Video Generation With Canvas**</a>, *arxiv-preprint*.
 -  Shaoheng Yan, **Zian Li**, Muhan Zhang, <a href='https://arxiv.org/abs/2506.13174'>**GeoRecon: Graph-Level Representation Learning for 3D Molecules via Reconstruction-Based Pretraining**</a>, *arxiv-preprint*.
--  **Zian Li**<sup>*</sup>, Cai Zhou<sup>*</sup>, Xiyuan Wang, Xingang Peng, Muhan Zhang, <a href='https://arxiv.org/abs/2410.03655'>**Geometric Representation Condition Improves Equivariant Molecule Generation**</a>, *International Conference on Machine Learning (ICML-25), 2025, <span style="color:red">Spotlight</span>*.
+-  **Zian Li**<sup>&#42;</sup>, Cai Zhou<sup>&#42;</sup>, Xiyuan Wang, Xingang Peng, Muhan Zhang, <a href='https://arxiv.org/abs/2410.03655'>**Geometric Representation Condition Improves Equivariant Molecule Generation**</a>, *International Conference on Machine Learning (ICML-25), 2025, <span style="color:red">Spotlight</span>*.
 -  **Zian Li**, Xiyuan Wang, Shijia Kang, Muhan Zhang, <a href='https://arxiv.org/abs/2402.04836'>**On the Completeness of Invariant Geometric Deep Learning Models**</a>, *International Conference on Learning Representations (ICLR-25), 2025*. <a href='https://github.com/GraphPKU/GeoNGNN'>(Source code)</a> 
 -  **Zian Li**, Xiyuan Wang, Yinan Huang, Muhan Zhang, <a href='https://arxiv.org/pdf/2302.05743'>**Is Distance Matrix Enough for Geometric Deep Learning?**</a>, *Advances in Neural Information Processing Systems (NIPS-23), 2023*. <a href='https://github.com/GraphPKU/DisGNN'>(Source code)</a> 
 
