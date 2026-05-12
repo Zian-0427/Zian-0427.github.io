@@ -19,7 +19,7 @@ redirect_from:
 
 # 🧑‍💻 Biography
 
-I am now a third-year Ph.D. student of <a href='https://www.ai.pku.edu.cn'>the Institute for Artificial Intelligence</a> of Peking University, advised by <a href='https://muhanzhang.github.io'>Prof. Muhan Zhang</a>. Our group's github page is <a href='https://github.com/GraphPKU'>GraphPKU</a>.
+I am now a third-year Ph.D. student of <a href='https://www.ai.pku.edu.cn'>the Institute for Artificial Intelligence</a> of Peking University, advised by <a href='https://muhanzhang.github.io'>Prof. Muhan Zhang</a>.
 
 My research focuses on generative models that span multiple modalities, including videos, images and molecules. Recently, I have been particularly interested in autoregressive video generation, video world models, and native multimodal models. Before this, I have worked on geometric deep learning, particularly investigating the theoretical expressiveness of geometric models and developing powerful models within this domain. If you are interested in these areas, feel free to reach out!
 
@@ -36,16 +36,18 @@ My research focuses on generative models that span multiple modalities, includin
 - <img src="../images/TJU logo.png" alt="TJU Logo" style="zoom:5.95%;" />        **2019.09 - 2023.07**, B.E., School of Future Technology, Tianjin University
 
 # 💻 Internships
-- **2026.01 - now**, <a href='https://klingai.com/global/'>Kling Team</a>
+- **2026.01 - 2026.05**, <a href='https://klingai.com/global/'>Kling Team</a>
 - **2021.08 - 2022.04**, <a href='http://fi.ee.tsinghua.edu.cn'>Fib-Lab</a>, Tsinghua University
 
 
 # 📃 Publications
+-  Shaoheng Yan<sup>*</sup>, **Zian Li**<sup>*</sup>, Cai Zhou, Qiaojing Huang, Kai Liu, Muhan Zhang, <a href='https://arxiv.org/abs/2605.07693'>**Toward Better Geometric Representations for Molecule Generative Models**</a>, *arxiv-preprint*.
+-  Xinyuan Wei<sup>*</sup>, **Zian Li**<sup>*</sup>, Shaoheng Yan, Cai Zhou, Muhan Zhang, <a href='https://arxiv.org/abs/2605.07020'>**FlashMol: High-Quality Molecule Generation in as Few as Four Steps**</a>, *arxiv-preprint*.
+-  Cai Zhou, Zijie Chen, **Zian Li**, Jike Wang, Kaiyi Jiang, Pan Li, Rose Yu, Muhan Zhang, Stephen Bates, Tommi Jaakkola, <a href='https://arxiv.org/abs/2602.15022'>**Rethinking Diffusion Models with Symmetries through Canonicalization with Applications to Molecular Graph Generation**</a>, *arxiv-preprint*.
 -  **Zian Li**, Muhan Zhang, <a href='https://arxiv.org/abs/2510.13669'>**CanvasMAR: Improving Masked Autoregressive Video Generation With Canvas**</a>, *arxiv-preprint*.
--  **Zian Li**, Cai Zhou, Xiyuan Wang, Xingang Peng, Muhan Zhang, <a href='https://arxiv.org/abs/2410.03655'>**Geometric Representation Condition Improves Equivariant Molecule Generation**</a>, *International Conference on Machine Learning (ICML-25), 2025, <span style="color:red">Spotlight</span>*.
+-  Shaoheng Yan, **Zian Li**, Muhan Zhang, <a href='https://arxiv.org/abs/2506.13174'>**GeoRecon: Graph-Level Representation Learning for 3D Molecules via Reconstruction-Based Pretraining**</a>, *arxiv-preprint*.
+-  **Zian Li**<sup>*</sup>, Cai Zhou<sup>*</sup>, Xiyuan Wang, Xingang Peng, Muhan Zhang, <a href='https://arxiv.org/abs/2410.03655'>**Geometric Representation Condition Improves Equivariant Molecule Generation**</a>, *International Conference on Machine Learning (ICML-25), 2025, <span style="color:red">Spotlight</span>*.
 -  **Zian Li**, Xiyuan Wang, Shijia Kang, Muhan Zhang, <a href='https://arxiv.org/abs/2402.04836'>**On the Completeness of Invariant Geometric Deep Learning Models**</a>, *International Conference on Learning Representations (ICLR-25), 2025*. <a href='https://github.com/GraphPKU/GeoNGNN'>(Source code)</a> 
 -  **Zian Li**, Xiyuan Wang, Yinan Huang, Muhan Zhang, <a href='https://arxiv.org/pdf/2302.05743'>**Is Distance Matrix Enough for Geometric Deep Learning?**</a>, *Advances in Neural Information Processing Systems (NIPS-23), 2023*. <a href='https://github.com/GraphPKU/DisGNN'>(Source code)</a> 
-
-
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=9b6b48&w=a&t=n&d=-Yj2y8ATNu3_ZP_ifvFgzhjGrfygQELILQknou-AYAs&co=e3c887&w=400"></script>
