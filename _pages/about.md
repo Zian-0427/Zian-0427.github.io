@@ -44,6 +44,7 @@ My research focuses on generative models that span multiple modalities, includin
 # 📃 Publications
 -  Shaoheng Yan<sup>&#42;</sup>, **Zian Li**<sup>&#42;</sup>, Cai Zhou, Qiaojing Huang, Kai Liu, Muhan Zhang, <a href='https://arxiv.org/abs/2605.07693'>**Toward Better Geometric Representations for Molecule Generative Models**</a>, *arxiv-preprint*.
 -  Xinyuan Wei<sup>&#42;</sup>, **Zian Li**<sup>&#42;</sup>, Shaoheng Yan, Cai Zhou, Muhan Zhang, <a href='https://arxiv.org/abs/2605.07020'>**FlashMol: High-Quality Molecule Generation in as Few as Four Steps**</a>, *arxiv-preprint*.
+-  Xinyu Wang, Huafeng Shi, **Zian Li**, Yan Zhou, Xiaoqiang Liu, Yue Ma, Pengfei Wan, **SubjectAnchor: Subject-Aware Memory-to-Video for Multi-Shot Storytelling**, *ACMMM 2026*.
 -  Cai Zhou, Zijie Chen, **Zian Li**, Jike Wang, Kaiyi Jiang, Pan Li, Rose Yu, Muhan Zhang, Stephen Bates, Tommi Jaakkola, <a href='https://arxiv.org/abs/2602.15022'>**Rethinking Diffusion Models with Symmetries through Canonicalization with Applications to Molecular Graph Generation**</a>, *arxiv-preprint*.
 -  **Zian Li**, Muhan Zhang, <a href='https://arxiv.org/abs/2510.13669'>**CanvasMAR: Improving Masked Autoregressive Video Generation With Canvas**</a>, *arxiv-preprint*.
 -  Shaoheng Yan, **Zian Li**, Muhan Zhang, <a href='https://arxiv.org/abs/2506.13174'>**GeoRecon: Graph-Level Representation Learning for 3D Molecules via Reconstruction-Based Pretraining**</a>, *ICML 2026 GenBio Workshop (spotlight)*.
