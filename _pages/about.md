@@ -21,7 +21,7 @@ redirect_from:
 
 I am now a third-year Ph.D. student of <a href='https://www.ai.pku.edu.cn'>the Institute for Artificial Intelligence</a> of Peking University, advised by <a href='https://muhanzhang.github.io'>Prof. Muhan Zhang</a>.
 
-My research focuses on generative models that span multiple modalities, including videos, images and molecules. Recently, I have been particularly interested in autoregressive video generation, video world models, and native multimodal models. Before this, I have worked on geometric deep learning, particularly investigating the theoretical expressiveness of geometric models and developing powerful models within this domain. If you are interested in these areas, feel free to reach out!
+My research focuses on generative models that span multiple modalities, including videos, images and molecules. Recently, I have been particularly interested in video generation and video world models. Before this, I have worked on geometric deep learning, particularly investigating the theoretical expressiveness of geometric models and developing powerful models within this domain. If you are interested in these areas, feel free to reach out!
 
 
 # 🎖 Honors and Awards
@@ -42,14 +42,111 @@ My research focuses on generative models that span multiple modalities, includin
 
 
 # 📃 Publications
--  Shaoheng Yan<sup>&#42;</sup>, **Zian Li**<sup>&#42;</sup>, Cai Zhou, Qiaojing Huang, Kai Liu, Muhan Zhang, <a href='https://arxiv.org/abs/2605.07693'>**Toward Better Geometric Representations for Molecule Generative Models**</a>, *arxiv-preprint*.
--  Xinyuan Wei<sup>&#42;</sup>, **Zian Li**<sup>&#42;</sup>, Shaoheng Yan, Cai Zhou, Muhan Zhang, <a href='https://arxiv.org/abs/2605.07020'>**FlashMol: High-Quality Molecule Generation in as Few as Four Steps**</a>, *arxiv-preprint*.
--  Xinyu Wang, Huafeng Shi, **Zian Li**, Yan Zhou, Xiaoqiang Liu, Yue Ma, Pengfei Wan, **SubjectAnchor: Subject-Aware Memory-to-Video for Multi-Shot Storytelling**, *ACMMM 2026*.
--  Cai Zhou, Zijie Chen, **Zian Li**, Jike Wang, Kaiyi Jiang, Pan Li, Rose Yu, Muhan Zhang, Stephen Bates, Tommi Jaakkola, <a href='https://arxiv.org/abs/2602.15022'>**Rethinking Diffusion Models with Symmetries through Canonicalization with Applications to Molecular Graph Generation**</a>, *arxiv-preprint*.
--  **Zian Li**, Muhan Zhang, <a href='https://arxiv.org/abs/2510.13669'>**CanvasMAR: Improving Masked Autoregressive Video Generation With Canvas**</a>, *arxiv-preprint*.
--  Shaoheng Yan, **Zian Li**, Muhan Zhang, <a href='https://arxiv.org/abs/2506.13174'>**GeoRecon: Graph-Level Representation Learning for 3D Molecules via Reconstruction-Based Pretraining**</a>, *ICML 2026 GenBio Workshop (spotlight)*.
--  **Zian Li**<sup>&#42;</sup>, Cai Zhou<sup>&#42;</sup>, Xiyuan Wang, Xingang Peng, Muhan Zhang, <a href='https://arxiv.org/abs/2410.03655'>**Geometric Representation Condition Improves Equivariant Molecule Generation**</a>, *International Conference on Machine Learning (ICML-25), 2025, <span style="color:red">Spotlight</span>*.
--  **Zian Li**, Xiyuan Wang, Shijia Kang, Muhan Zhang, <a href='https://arxiv.org/abs/2402.04836'>**On the Completeness of Invariant Geometric Deep Learning Models**</a>, *International Conference on Learning Representations (ICLR-25), 2025*. <a href='https://github.com/GraphPKU/GeoNGNN'>(Source code)</a> 
--  **Zian Li**, Xiyuan Wang, Yinan Huang, Muhan Zhang, <a href='https://arxiv.org/pdf/2302.05743'>**Is Distance Matrix Enough for Geometric Deep Learning?**</a>, *Advances in Neural Information Processing Systems (NIPS-23), 2023*. <a href='https://github.com/GraphPKU/DisGNN'>(Source code)</a> 
+
+<div class="pub-list">
+  <div class="pub-item">
+    <div class="pub-title-row">
+      <span class="pub-title">DUET: A Diversity-Quality Duet of Distillation Experts for Two-Step Video Generation</span>
+    </div>
+    <div class="pub-authors"><strong>Zian Li</strong>, Litong Gong, Borui Liao, Pengfei Liu, Xinyu Wang, Xinyuan Wei, Yifan Gao, Tiezheng Ge, Muhan Zhang</div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-title-row">
+      <span class="pub-title">Toward Better Geometric Representations for Molecule Generative Models</span>
+      <span class="pub-links">
+        <a href="https://arxiv.org/abs/2605.07693" title="Paper" aria-label="Paper"><i class="ai ai-arxiv"></i></a>
+      </span>
+    </div>
+    <div class="pub-authors">Shaoheng Yan<sup>&#42;</sup>, <strong>Zian Li</strong><sup>&#42;</sup>, Cai Zhou, Qiaojing Huang, Kai Liu, Muhan Zhang</div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-title-row">
+      <span class="pub-title">FlashMol: High-Quality Molecule Generation in as Few as Four Steps</span>
+      <span class="pub-links">
+        <a href="https://arxiv.org/abs/2605.07020" title="Paper" aria-label="Paper"><i class="ai ai-arxiv"></i></a>
+        <a href="https://github.com/MuLabPKU/FlashMol" title="Code" aria-label="Code"><i class="fab fa-github"></i></a>
+      </span>
+    </div>
+    <div class="pub-authors">Xinyuan Wei<sup>&#42;</sup>, <strong>Zian Li</strong><sup>&#42;</sup>, Shaoheng Yan, Cai Zhou, Muhan Zhang</div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-title-row">
+      <span class="pub-title">SubjectAnchor: Subject-Aware Memory-to-Video for Multi-Shot Storytelling</span>
+      <span class="pub-venue">ACMMM 2026</span>
+    </div>
+    <div class="pub-authors">Xinyu Wang, Huafeng Shi, <strong>Zian Li</strong>, Yan Zhou, Xiaoqiang Liu, Yue Ma, Pengfei Wan</div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-title-row">
+      <span class="pub-title">Rethinking Diffusion Models with Symmetries through Canonicalization with Applications to Molecular Graph Generation</span>
+      <span class="pub-links">
+        <a href="https://arxiv.org/abs/2602.15022" title="Paper" aria-label="Paper"><i class="ai ai-arxiv"></i></a>
+      </span>
+    </div>
+    <div class="pub-authors">Cai Zhou, Zijie Chen, <strong>Zian Li</strong>, Jike Wang, Kaiyi Jiang, Pan Li, Rose Yu, Muhan Zhang, Stephen Bates, Tommi Jaakkola</div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-title-row">
+      <span class="pub-title">CanvasMAR: Improving Masked Autoregressive Video Generation With Canvas</span>
+      <span class="pub-links">
+        <a href="https://arxiv.org/abs/2510.13669" title="Paper" aria-label="Paper"><i class="ai ai-arxiv"></i></a>
+      </span>
+    </div>
+    <div class="pub-authors"><strong>Zian Li</strong>, Muhan Zhang</div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-title-row">
+      <span class="pub-title">GeoRecon: Graph-Level Representation Learning for 3D Molecules via Reconstruction-Based Pretraining</span>
+      <span class="pub-venue">ICML 2026 GenBio Workshop</span>
+      <span class="pub-links">
+        <a href="https://arxiv.org/abs/2506.13174" title="Paper" aria-label="Paper"><i class="ai ai-arxiv"></i></a>
+      </span>
+    </div>
+    <div class="pub-authors">Shaoheng Yan, <strong>Zian Li</strong>, Muhan Zhang</div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-title-row">
+      <span class="pub-title">Geometric Representation Condition Improves Equivariant Molecule Generation</span>
+      <span class="pub-venue">ICML 2025</span>
+      <span class="pub-note">Spotlight</span>
+      <span class="pub-links">
+        <a href="https://arxiv.org/abs/2410.03655" title="Paper" aria-label="Paper"><i class="ai ai-arxiv"></i></a>
+        <a href="https://github.com/GraphPKU/GeoRCG" title="Code" aria-label="Code"><i class="fab fa-github"></i></a>
+      </span>
+    </div>
+    <div class="pub-authors"><strong>Zian Li</strong><sup>&#42;</sup>, Cai Zhou<sup>&#42;</sup>, Xiyuan Wang, Xingang Peng, Muhan Zhang</div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-title-row">
+      <span class="pub-title">On the Completeness of Invariant Geometric Deep Learning Models</span>
+      <span class="pub-venue">ICLR 2025</span>
+      <span class="pub-links">
+        <a href="https://arxiv.org/abs/2402.04836" title="Paper" aria-label="Paper"><i class="ai ai-arxiv"></i></a>
+        <a href="https://github.com/GraphPKU/GeoNGNN" title="Code" aria-label="Code"><i class="fab fa-github"></i></a>
+      </span>
+    </div>
+    <div class="pub-authors"><strong>Zian Li</strong>, Xiyuan Wang, Shijia Kang, Muhan Zhang</div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-title-row">
+      <span class="pub-title">Is Distance Matrix Enough for Geometric Deep Learning?</span>
+      <span class="pub-venue">NeurIPS 2023</span>
+      <span class="pub-links">
+        <a href="https://arxiv.org/pdf/2302.05743" title="Paper" aria-label="Paper"><i class="ai ai-arxiv"></i></a>
+        <a href="https://github.com/GraphPKU/DisGNN" title="Code" aria-label="Code"><i class="fab fa-github"></i></a>
+      </span>
+    </div>
+    <div class="pub-authors"><strong>Zian Li</strong>, Xiyuan Wang, Yinan Huang, Muhan Zhang</div>
+  </div>
+</div>
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=9b6b48&w=a&t=n&d=-Yj2y8ATNu3_ZP_ifvFgzhjGrfygQELILQknou-AYAs&co=e3c887&w=400"></script>
