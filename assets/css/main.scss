@@ -160,6 +160,10 @@
     line-height: 1.45;
 }
 
+.pub-authors strong {
+    font-weight: 800;
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
