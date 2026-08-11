@@ -47,6 +47,9 @@ My research focuses on generative models that span multiple modalities, includin
   <div class="pub-item">
     <div class="pub-title-row">
       <span class="pub-title">DUET: A Diversity-Quality Duet of Distillation Experts for Two-Step Video Generation</span>
+      <span class="pub-links">
+        <a href="https://arxiv.org/abs/2608.09637" title="Paper" aria-label="Paper"><i class="ai ai-arxiv"></i></a>
+      </span>
     </div>
     <div class="pub-authors"><strong>Zian Li</strong>, Litong Gong, Borui Liao, Pengfei Liu, Xinyu Wang, Xinyuan Wei, Yifan Gao, Tiezheng Ge, Muhan Zhang</div>
   </div>
