@@ -36,8 +36,10 @@ My research focuses on generative models that span multiple modalities, includin
 - <img src="../images/TJU logo.png" alt="TJU Logo" style="zoom:5.95%;" />        **2019.09 - 2023.07**, B.E., School of Future Technology, Tianjin University
 
 # 💻 Internships
-- <img src="../images/HH.png" alt="TJU Logo" style="zoom:25%;" /> **2026.05 - now**, <a href='https://www.happyhorse.com/'>HappyHorse Team</a>, Alibaba (T-star intern)
+- <img src="../images/HH.png" alt="TJU Logo" style="zoom:25%;" /> **2026.05 - now**, <a href='https://www.happyhorse.com/'>HappyHorse Team</a>, Alibaba Token Foundry (T-star intern)
+  - *Few-Step Distillation; Video Refiner; VAE; etc.*
 - <img src="../images/kling.png" alt="TJU Logo" style="zoom:25%;" /> **2026.01 - 2026.05**, <a href='https://klingai.com/global/'>Kling Team</a>, Kuaishou
+  - *Autoregressive Video Generation; World Model*
 <!-- - **2021.08 - 2022.04**, <a href='http://fi.ee.tsinghua.edu.cn'>Fib-Lab</a>, Tsinghua University -->
 
 
@@ -56,7 +58,19 @@ My research focuses on generative models that span multiple modalities, includin
 
   <div class="pub-item">
     <div class="pub-title-row">
+      <span class="pub-title">CanvasMAR: Improving Masked Autoregressive Video Generation With Canvas</span>
+      <span class="pub-venue">NeurIPS 2026</span>
+      <span class="pub-links">
+        <a href="https://arxiv.org/abs/2510.13669" title="Paper" aria-label="Paper"><i class="ai ai-arxiv"></i></a>
+      </span>
+    </div>
+    <div class="pub-authors"><strong>Zian Li</strong>, Muhan Zhang</div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-title-row">
       <span class="pub-title">Toward Better Geometric Representations for Molecule Generative Models</span>
+      <span class="pub-venue">NeurIPS 2026</span>
       <span class="pub-links">
         <a href="https://arxiv.org/abs/2605.07693" title="Paper" aria-label="Paper"><i class="ai ai-arxiv"></i></a>
       </span>
@@ -67,6 +81,7 @@ My research focuses on generative models that span multiple modalities, includin
   <div class="pub-item">
     <div class="pub-title-row">
       <span class="pub-title">FlashMol: High-Quality Molecule Generation in as Few as Four Steps</span>
+      <span class="pub-venue">NeurIPS 2026</span>
       <span class="pub-links">
         <a href="https://arxiv.org/abs/2605.07020" title="Paper" aria-label="Paper"><i class="ai ai-arxiv"></i></a>
         <a href="https://github.com/MuLabPKU/FlashMol" title="Code" aria-label="Code"><i class="fab fa-github"></i></a>
@@ -91,16 +106,6 @@ My research focuses on generative models that span multiple modalities, includin
       </span>
     </div>
     <div class="pub-authors">Cai Zhou, Zijie Chen, <strong>Zian Li</strong>, Jike Wang, Kaiyi Jiang, Pan Li, Rose Yu, Muhan Zhang, Stephen Bates, Tommi Jaakkola</div>
-  </div>
-
-  <div class="pub-item">
-    <div class="pub-title-row">
-      <span class="pub-title">CanvasMAR: Improving Masked Autoregressive Video Generation With Canvas</span>
-      <span class="pub-links">
-        <a href="https://arxiv.org/abs/2510.13669" title="Paper" aria-label="Paper"><i class="ai ai-arxiv"></i></a>
-      </span>
-    </div>
-    <div class="pub-authors"><strong>Zian Li</strong>, Muhan Zhang</div>
   </div>
 
   <div class="pub-item">
