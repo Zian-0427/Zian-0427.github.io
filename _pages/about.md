@@ -37,7 +37,6 @@ My research focuses on generative models that span multiple modalities, includin
 
 # 💻 Internships
 - <img src="../images/HH.png" alt="TJU Logo" style="zoom:25%;" /> **2026.05 - now**, <a href='https://www.happyhorse.com/'>HappyHorse Team</a>, Alibaba Token Foundry (T-star intern)
-  - *Few-Step Distillation; Video Refiner; VAE; etc.*
 - <img src="../images/kling.png" alt="TJU Logo" style="zoom:25%;" /> **2026.01 - 2026.05**, <a href='https://klingai.com/global/'>Kling Team</a>, Kuaishou
   - *Autoregressive Video Generation; World Model*
 <!-- - **2021.08 - 2022.04**, <a href='http://fi.ee.tsinghua.edu.cn'>Fib-Lab</a>, Tsinghua University -->
