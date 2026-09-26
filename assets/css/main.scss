@@ -92,35 +92,63 @@
 }
 
 .pub-item {
-    padding: 0.85rem 0;
+    padding: 0.85rem 0.9rem;
+    margin: 0 -0.9rem;
     border-bottom: 1px solid #eeeeee;
+    border-radius: 10px;
+    transition: background-color 0.25s ease, box-shadow 0.25s ease, transform 0.2s ease;
+}
+
+.pub-item:hover {
+    background: #f5f9fd;
+    box-shadow: 0 4px 16px rgba(36, 82, 122, 0.10);
+    transform: translateY(-2px);
+    border-bottom-color: transparent;
+}
+
+.pub-item:hover .pub-title {
+    color: #24527a;
+}
+
+.pub-badge-row {
+    margin-bottom: 0.3rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
 }
 
 .pub-title-row {
     display: flex;
     align-items: center;
     flex-wrap: wrap;
-    gap: 0.35rem 0.5rem;
+    gap: 0.3rem 0.5rem;
     line-height: 1.35;
+    padding-left: 1.6rem;
 }
 
 .pub-title {
     font-weight: 700;
     color: #222222;
+    transition: color 0.2s ease;
 }
 
 .pub-venue,
-.pub-note {
-    display: inline-flex;
-    align-items: center;
-    border-radius: 999px;
-    padding: 0.08rem 0.45rem;
+.pub-note,
+.pub-preprint {
+    display: inline-block;
+    border-radius: 6px;
+    padding: 0.1rem 0.5rem;
     font-size: 0.72em;
-    line-height: 1.4;
-    white-space: nowrap;
+    line-height: 1.35;
+    font-weight: 600;
 }
 
 .pub-venue {
+    color: #24527a;
+    background: #edf5fb;
+}
+
+.pub-preprint {
     color: #24527a;
     background: #edf5fb;
 }
@@ -155,6 +183,7 @@
 
 .pub-authors {
     margin-top: 0.28rem;
+    padding-left: 1.6rem;
     color: #555555;
     font-size: 0.92em;
     line-height: 1.45;
@@ -162,6 +191,19 @@
 
 .pub-authors strong {
     font-weight: 800;
+}
+
+.pub-tldr {
+    margin-top: 0.2rem;
+    color: #666666;
+    font-size: 0.82em;
+    line-height: 1.45;
+}
+
+.pub-tldr strong {
+    color: #24527a;
+    font-weight: 700;
+    margin-right: 0.25rem;
 }
 
 $scroll_offset : 2em;
