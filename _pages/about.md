@@ -54,8 +54,8 @@ If you are interested in these areas, feel free to reach out!
 
 <div class="pub-list">
   <div class="pub-item">
+    <div class="pub-badge-row"><span class="pub-preprint">preprint</span></div>
     <div class="pub-title-row">
-      <span class="pub-badge"><span class="pub-preprint">preprint</span></span>
       <span class="pub-title">DUET: A Diversity-Quality Duet of Distillation Experts for Two-Step Video Generation</span>
       <span class="pub-links">
         <a href="https://arxiv.org/abs/2608.09637" title="Paper" aria-label="Paper"><i class="ai ai-arxiv"></i></a>
@@ -65,8 +65,8 @@ If you are interested in these areas, feel free to reach out!
   </div>
 
   <div class="pub-item">
+    <div class="pub-badge-row"><span class="pub-venue">NeurIPS 2026</span></div>
     <div class="pub-title-row">
-      <span class="pub-badge"><span class="pub-venue">NeurIPS 2026</span></span>
       <span class="pub-title">CanvasMAR: Improving Masked Autoregressive Video Generation With Canvas</span>
       <span class="pub-links">
         <a href="https://arxiv.org/abs/2510.13669" title="Paper" aria-label="Paper"><i class="ai ai-arxiv"></i></a>
@@ -76,8 +76,8 @@ If you are interested in these areas, feel free to reach out!
   </div>
 
   <div class="pub-item">
+    <div class="pub-badge-row"><span class="pub-venue">NeurIPS 2026</span></div>
     <div class="pub-title-row">
-      <span class="pub-badge"><span class="pub-venue">NeurIPS 2026</span></span>
       <span class="pub-title">Toward Better Geometric Representations for Molecule Generative Models</span>
       <span class="pub-links">
         <a href="https://arxiv.org/abs/2605.07693" title="Paper" aria-label="Paper"><i class="ai ai-arxiv"></i></a>
@@ -87,8 +87,8 @@ If you are interested in these areas, feel free to reach out!
   </div>
 
   <div class="pub-item">
+    <div class="pub-badge-row"><span class="pub-venue">NeurIPS 2026</span></div>
     <div class="pub-title-row">
-      <span class="pub-badge"><span class="pub-venue">NeurIPS 2026</span></span>
       <span class="pub-title">FlashMol: High-Quality Molecule Generation in as Few as Four Steps</span>
       <span class="pub-links">
         <a href="https://arxiv.org/abs/2605.07020" title="Paper" aria-label="Paper"><i class="ai ai-arxiv"></i></a>
@@ -99,8 +99,8 @@ If you are interested in these areas, feel free to reach out!
   </div>
 
   <div class="pub-item">
+    <div class="pub-badge-row"><span class="pub-preprint">preprint</span></div>
     <div class="pub-title-row">
-      <span class="pub-badge"><span class="pub-preprint">preprint</span></span>
       <span class="pub-title">In-Parameter Learning: Why Lifelong AI Systems Need More Than Longer Context</span>
       <span class="pub-links">
         <a href="https://github.com/MuLabPKU/In-Parameter-Learning/blob/main/Beyond_longer_context.pdf" title="Paper" aria-label="Paper"><i class="far fa-file-pdf"></i></a>
@@ -111,16 +111,16 @@ If you are interested in these areas, feel free to reach out!
   </div>
 
   <div class="pub-item">
+    <div class="pub-badge-row"><span class="pub-venue">ACMMM 2026</span></div>
     <div class="pub-title-row">
-      <span class="pub-badge"><span class="pub-venue">ACMMM 2026</span></span>
       <span class="pub-title">SubjectAnchor: Subject-Aware Memory-to-Video for Multi-Shot Storytelling</span>
     </div>
     <div class="pub-authors">Xinyu Wang, Huafeng Shi, <strong>Zian Li</strong>, Yan Zhou, Xiaoqiang Liu, Yue Ma, Pengfei Wan</div>
   </div>
 
   <div class="pub-item">
+    <div class="pub-badge-row"><span class="pub-preprint">preprint</span></div>
     <div class="pub-title-row">
-      <span class="pub-badge"><span class="pub-preprint">preprint</span></span>
       <span class="pub-title">Rethinking Diffusion Models with Symmetries through Canonicalization with Applications to Molecular Graph Generation</span>
       <span class="pub-links">
         <a href="https://arxiv.org/abs/2602.15022" title="Paper" aria-label="Paper"><i class="ai ai-arxiv"></i></a>
@@ -130,8 +130,8 @@ If you are interested in these areas, feel free to reach out!
   </div>
 
   <div class="pub-item">
+    <div class="pub-badge-row"><span class="pub-venue">ICML 2026 GenBio Workshop</span></div>
     <div class="pub-title-row">
-      <span class="pub-badge"><span class="pub-venue">ICML 2026 GenBio Workshop</span></span>
       <span class="pub-title">GeoRecon: Graph-Level Representation Learning for 3D Molecules via Reconstruction-Based Pretraining</span>
       <span class="pub-links">
         <a href="https://arxiv.org/abs/2506.13174" title="Paper" aria-label="Paper"><i class="ai ai-arxiv"></i></a>
@@ -141,10 +141,9 @@ If you are interested in these areas, feel free to reach out!
   </div>
 
   <div class="pub-item">
+    <div class="pub-badge-row"><span class="pub-venue">ICML 2025</span> <span class="pub-note">Spotlight</span></div>
     <div class="pub-title-row">
-      <span class="pub-badge"><span class="pub-venue">ICML 2025</span></span>
       <span class="pub-title">Geometric Representation Condition Improves Equivariant Molecule Generation</span>
-      <span class="pub-note">Spotlight</span>
       <span class="pub-links">
         <a href="https://arxiv.org/abs/2410.03655" title="Paper" aria-label="Paper"><i class="ai ai-arxiv"></i></a>
         <a href="https://github.com/GraphPKU/GeoRCG" title="Code" aria-label="Code"><i class="fab fa-github"></i></a>
@@ -154,8 +153,8 @@ If you are interested in these areas, feel free to reach out!
   </div>
 
   <div class="pub-item">
+    <div class="pub-badge-row"><span class="pub-venue">ICLR 2025</span></div>
     <div class="pub-title-row">
-      <span class="pub-badge"><span class="pub-venue">ICLR 2025</span></span>
       <span class="pub-title">On the Completeness of Invariant Geometric Deep Learning Models</span>
       <span class="pub-links">
         <a href="https://arxiv.org/abs/2402.04836" title="Paper" aria-label="Paper"><i class="ai ai-arxiv"></i></a>
@@ -166,8 +165,8 @@ If you are interested in these areas, feel free to reach out!
   </div>
 
   <div class="pub-item">
+    <div class="pub-badge-row"><span class="pub-venue">NeurIPS 2023</span></div>
     <div class="pub-title-row">
-      <span class="pub-badge"><span class="pub-venue">NeurIPS 2023</span></span>
       <span class="pub-title">Is Distance Matrix Enough for Geometric Deep Learning?</span>
       <span class="pub-links">
         <a href="https://arxiv.org/pdf/2302.05743" title="Paper" aria-label="Paper"><i class="ai ai-arxiv"></i></a>
