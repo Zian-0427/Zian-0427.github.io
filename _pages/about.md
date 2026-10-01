@@ -26,31 +26,45 @@ I am now a fourth-year Ph.D. student at <a href='https://www.ai.pku.edu.cn'>the 
 
 My research focuses on scalable generative models spanning multiple modalities, including videos, images, and molecules. I am interested in both theoretical foundations (e.g., representations expressiveness) and practical systems (e.g., architectures, acceleration, and industrial deployment). Recently, I have been particularly interested in video generation. My research interests include:
 
-- **Video Generation:** architectures, pretraining paradigms, few-step distillation, refiners, and generation-friendly VAEs.
-- **AI for Science:** geometric representations, molecule pretraining and generation paradigms, few-step generation, ai for biology.
+<div class="profile-list">
+  <div class="profile-item"><strong>Video Generation:</strong> architectures, pretraining paradigms, few-step distillation, refiners, and generation-friendly VAEs.</div>
+  <div class="profile-item"><strong>AI for Science:</strong> geometric representations, molecule pretraining and generation paradigms, few-step generation, ai for biology.</div>
+</div>
 
 If you are interested in these areas, feel free to reach out!
 
 # 🎖 Honors and Awards
-- **2025.10**, Doctoral Dean’s Scholarship, Institute for Artificial Intelligence, Peking University
-- **2020.12, 2021.12, 2022.12**, National Scholarship for Undergraduate Student
-- **2021.12**, Outstanding Student Pioneer of Tianjin University (Nomination Award) (only 10 awardees and 5 nominated awardees university-wide per year)
-- **2021.08**, First Prize of National Zhou Peiyuan Competition on Mechanics (~0.3%)
-- **2021.04**, Meritorious Winner (First Prize) of ICM: Interdisciplinary Contest In Modeling
+<div class="profile-list">
+  <div class="profile-item"><strong>2025.10</strong>, Doctoral Dean’s Scholarship, Institute for Artificial Intelligence, Peking University</div>
+  <div class="profile-item"><strong>2020.12, 2021.12, 2022.12</strong>, National Scholarship for Undergraduate Student</div>
+  <div class="profile-item"><strong>2021.12</strong>, Outstanding Student Pioneer of Tianjin University (Nomination Award) (only 10 awardees and 5 nominated awardees university-wide per year)</div>
+  <div class="profile-item"><strong>2021.08</strong>, First Prize of National Zhou Peiyuan Competition on Mechanics (~0.3%)</div>
+  <div class="profile-item"><strong>2021.04</strong>, Meritorious Winner (First Prize) of ICM: Interdisciplinary Contest In Modeling</div>
+</div>
 
 # 📖 Educations
-- <img src="../images/PKU logo.png" alt="PKU Logo" style="zoom:25%;" />        **2023.09 -**, Ph.D. student, Institute for Artificial Intelligence, Peking University
-- <img src="../images/TJU logo.png" alt="TJU Logo" style="zoom:5.95%;" />        **2019.09 - 2023.07**, B.E., School of Future Technology, Tianjin University
+<div class="profile-list">
+  <div class="profile-item"><img src="../images/PKU logo.png" alt="PKU Logo" style="zoom:25%;" /> <strong>2023.09 - 2028.07 (expected)</strong>, Ph.D. student, Institute for Artificial Intelligence, Peking University</div>
+  <div class="profile-item"><img src="../images/TJU logo.png" alt="TJU Logo" style="zoom:5.95%;" /> <strong>2019.09 - 2023.07</strong>, B.E., School of Future Technology, Tianjin University</div>
+</div>
 
 # 💻 Internships
-- <img src="../images/HH.png" alt="TJU Logo" style="zoom:25%;" /> **2026.05 - now**, <a href='https://www.happyhorse.com/'>HappyHorse Team</a>, Alibaba Token Foundry (T-star intern)
-  - *Development of the next-generation Happy Horse series*
-- <img src="../images/kling.png" alt="TJU Logo" style="zoom:25%;" /> **2026.01 - 2026.05**, <a href='https://klingai.com/global/'>Kling Team</a>, Kuaishou
-  - *Autoregressive Video Generation; World Model*
+<div class="profile-list">
+  <div class="profile-item">
+    <div><img src="../images/HH.png" alt="TJU Logo" style="zoom:25%;" /> <strong>2026.05 - now</strong>, <a href='https://www.happyhorse.com/'>HappyHorse Team</a>, Alibaba Token Foundry (T-star intern)</div>
+    <div class="profile-detail"><em>Development of the next-generation Happy Horse series</em></div>
+  </div>
+  <div class="profile-item">
+    <div><img src="../images/kling.png" alt="TJU Logo" style="zoom:25%;" /> <strong>2026.01 - 2026.05</strong>, <a href='https://klingai.com/global/'>Kling Team</a>, Kuaishou</div>
+    <div class="profile-detail"><em>Autoregressive Video Generation; World Model</em></div>
+  </div>
+</div>
 <!-- - **2021.08 - 2022.04**, <a href='http://fi.ee.tsinghua.edu.cn'>Fib-Lab</a>, Tsinghua University -->
 
 
 # 📃 Publications
+
+<div class="pub-note"><sup>&#42;</sup> indicates equal contribution.</div>
 
 <div class="pub-list">
   <div class="pub-item">
@@ -114,6 +128,9 @@ If you are interested in these areas, feel free to reach out!
     <div class="pub-badge-row"><span class="pub-venue">ACMMM 2026</span></div>
     <div class="pub-title-row">
       <span class="pub-title">SubjectAnchor: Subject-Aware Memory-to-Video for Multi-Shot Storytelling</span>
+      <span class="pub-links">
+        <a href="https://arxiv.org/pdf/2609.34502" title="Paper" aria-label="Paper"><i class="ai ai-arxiv"></i></a>
+      </span>
     </div>
     <div class="pub-authors">Xinyu Wang, Huafeng Shi, <strong>Zian Li</strong>, Yan Zhou, Xiaoqiang Liu, Yue Ma, Pengfei Wan</div>
   </div>
@@ -130,7 +147,7 @@ If you are interested in these areas, feel free to reach out!
   </div>
 
   <div class="pub-item">
-    <div class="pub-badge-row"><span class="pub-venue">ICML 2026 GenBio Workshop</span></div>
+    <div class="pub-badge-row"><span class="pub-venue">ICML 2026 GenBio Workshop</span> <span class="pub-note">Spotlight</span></div>
     <div class="pub-title-row">
       <span class="pub-title">GeoRecon: Graph-Level Representation Learning for 3D Molecules via Reconstruction-Based Pretraining</span>
       <span class="pub-links">
