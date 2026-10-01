@@ -26,10 +26,8 @@ I am now a fourth-year Ph.D. student at <a href='https://www.ai.pku.edu.cn'>the 
 
 My research focuses on scalable generative models spanning multiple modalities, including videos, images, and molecules. I am interested in both theoretical foundations (e.g., representations expressiveness) and practical systems (e.g., architectures, acceleration, and industrial deployment). Recently, I have been particularly interested in video generation. My research interests include:
 
-<div class="profile-list">
-  <div class="profile-item"><strong>Video Generation:</strong> architectures, pretraining paradigms, few-step distillation, refiners, and generation-friendly VAEs.</div>
-  <div class="profile-item"><strong>AI for Science:</strong> geometric representations, molecule pretraining and generation paradigms, few-step generation, ai for biology.</div>
-</div>
++ **Video Generation:** architectures, pretraining paradigms, few-step distillation, refiners, and generation-friendly VAEs.
++ **AI for Science:** geometric representations, molecule pretraining and generation paradigms, few-step generation, ai for biology.
 
 If you are interested in these areas, feel free to reach out!
 
@@ -44,19 +42,31 @@ If you are interested in these areas, feel free to reach out!
 
 # 📖 Educations
 <div class="profile-list">
-  <div class="profile-item"><img src="../images/PKU logo.png" alt="PKU Logo" style="zoom:25%;" /> <strong>2023.09 - 2028.07 (expected)</strong>, Ph.D. student, Institute for Artificial Intelligence, Peking University</div>
-  <div class="profile-item"><img src="../images/TJU logo.png" alt="TJU Logo" style="zoom:5.95%;" /> <strong>2019.09 - 2023.07</strong>, B.E., School of Future Technology, Tianjin University</div>
+  <div class="profile-item profile-item-with-logo">
+    <img class="profile-logo" src="../images/PKU logo.png" alt="PKU Logo" />
+    <div><strong>2023.09 - 2028.07 (expected)</strong>, Ph.D. student, Institute for Artificial Intelligence, Peking University</div>
+  </div>
+  <div class="profile-item profile-item-with-logo">
+    <img class="profile-logo" src="../images/TJU logo.png" alt="TJU Logo" />
+    <div><strong>2019.09 - 2023.07</strong>, B.E., School of Future Technology, Tianjin University</div>
+  </div>
 </div>
 
 # 💻 Internships
 <div class="profile-list">
-  <div class="profile-item">
-    <div><img src="../images/HH.png" alt="TJU Logo" style="zoom:25%;" /> <strong>2026.05 - now</strong>, <a href='https://www.happyhorse.com/'>HappyHorse Team</a>, Alibaba Token Foundry (T-star intern)</div>
-    <div class="profile-detail"><em>Development of the next-generation Happy Horse series</em></div>
+  <div class="profile-item profile-item-with-logo">
+    <img class="profile-logo" src="../images/HH.png" alt="HappyHorse Logo" />
+    <div>
+      <div><strong>2026.05 - now</strong>, <a href='https://www.happyhorse.com/'>HappyHorse Team</a>, Alibaba Token Foundry (T-star intern)</div>
+      <div class="profile-detail"><em>Development of the next-generation Happy Horse series</em></div>
+    </div>
   </div>
-  <div class="profile-item">
-    <div><img src="../images/kling.png" alt="TJU Logo" style="zoom:25%;" /> <strong>2026.01 - 2026.05</strong>, <a href='https://klingai.com/global/'>Kling Team</a>, Kuaishou</div>
-    <div class="profile-detail"><em>Autoregressive Video Generation; World Model</em></div>
+  <div class="profile-item profile-item-with-logo">
+    <img class="profile-logo" src="../images/kling.png" alt="Kling Logo" />
+    <div>
+      <div><strong>2026.01 - 2026.05</strong>, <a href='https://klingai.com/global/'>Kling Team</a>, Kuaishou</div>
+      <div class="profile-detail"><em>Autoregressive Video Generation; World Model</em></div>
+    </div>
   </div>
 </div>
 <!-- - **2021.08 - 2022.04**, <a href='http://fi.ee.tsinghua.edu.cn'>Fib-Lab</a>, Tsinghua University -->
@@ -64,7 +74,7 @@ If you are interested in these areas, feel free to reach out!
 
 # 📃 Publications
 
-<div class="pub-note"><sup>&#42;</sup> indicates equal contribution.</div>
+<div class="pub-contribution-note"><sup>&#42;</sup> indicates equal contribution.</div>
 
 <div class="pub-list">
   <div class="pub-item">
