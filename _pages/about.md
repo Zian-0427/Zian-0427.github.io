@@ -74,7 +74,7 @@ If you are interested in these areas, feel free to reach out!
 
 # 📃 Publications
 
-<div class="pub-contribution-note"><sup>&#42;</sup> indicates equal contribution.</div>
+<div class="pub-contribution-note"><sup>&#42;</sup> indicates equal contribution. <sup>&#8224;</sup> indicates project lead.</div>
 
 <div class="pub-list">
   <div class="pub-item">
@@ -107,7 +107,7 @@ If you are interested in these areas, feel free to reach out!
         <a href="https://arxiv.org/abs/2605.07693" title="Paper" aria-label="Paper"><i class="ai ai-arxiv"></i></a>
       </span>
     </div>
-    <div class="pub-authors">Shaoheng Yan<sup>&#42;</sup>, <strong>Zian Li</strong><sup>&#42;</sup>, Cai Zhou, Qiaojing Huang, Kai Liu, Muhan Zhang</div>
+    <div class="pub-authors">Shaoheng Yan<sup>&#42;</sup>, <strong>Zian Li</strong><sup>&#42;&#8224;</sup>, Cai Zhou, Qiaojing Huang, Kai Liu, Muhan Zhang</div>
   </div>
 
   <div class="pub-item">
@@ -119,7 +119,7 @@ If you are interested in these areas, feel free to reach out!
         <a href="https://github.com/MuLabPKU/FlashMol" title="Code" aria-label="Code"><i class="fab fa-github"></i></a>
       </span>
     </div>
-    <div class="pub-authors">Xinyuan Wei<sup>&#42;</sup>, <strong>Zian Li</strong><sup>&#42;</sup>, Shaoheng Yan, Cai Zhou, Muhan Zhang</div>
+    <div class="pub-authors">Xinyuan Wei<sup>&#42;</sup>, <strong>Zian Li</strong><sup>&#42;&#8224;</sup>, Shaoheng Yan, Cai Zhou, Muhan Zhang</div>
   </div>
 
   <div class="pub-item">
@@ -131,7 +131,7 @@ If you are interested in these areas, feel free to reach out!
         <a href="https://github.com/MuLabPKU/In-Parameter-Learning" title="Code" aria-label="Code"><i class="fab fa-github"></i></a>
       </span>
     </div>
-    <div class="pub-authors">Yiding Wang<sup>&#42;</sup>, Haotong Yang<sup>&#42;</sup>, Pingzhi Tang<sup>&#42;</sup>, ..., <strong>Zian Li</strong>, ..., Xing Sun<sup>&#8224;</sup>, Muhan Zhang<sup>&#8224;&#8225;</sup></div>
+    <div class="pub-authors">Yiding Wang<sup>&#42;</sup>, Haotong Yang<sup>&#42;</sup>, Pingzhi Tang<sup>&#42;</sup>, ..., <strong>Zian Li</strong>, ..., Xing Sun, Muhan Zhang</div>
   </div>
 
   <div class="pub-item">
@@ -153,7 +153,7 @@ If you are interested in these areas, feel free to reach out!
         <a href="https://arxiv.org/abs/2602.15022" title="Paper" aria-label="Paper"><i class="ai ai-arxiv"></i></a>
       </span>
     </div>
-    <div class="pub-authors">Cai Zhou, Zijie Chen, <strong>Zian Li</strong>, Jike Wang, Kaiyi Jiang, Pan Li, Rose Yu, Muhan Zhang, Stephen Bates, Tommi Jaakkola</div>
+    <div class="pub-authors">Cai Zhou<sup>&#42;</sup>, Zijie Chen<sup>&#42;</sup>, <strong>Zian Li</strong>, Jike Wang, Kaiyi Jiang, Pan Li, Rose Yu, Muhan Zhang, Stephen Bates, Tommi Jaakkola</div>
   </div>
 
   <div class="pub-item">
@@ -164,7 +164,7 @@ If you are interested in these areas, feel free to reach out!
         <a href="https://arxiv.org/abs/2506.13174" title="Paper" aria-label="Paper"><i class="ai ai-arxiv"></i></a>
       </span>
     </div>
-    <div class="pub-authors">Shaoheng Yan, <strong>Zian Li</strong>, Muhan Zhang</div>
+    <div class="pub-authors">Shaoheng Yan, <strong>Zian Li</strong><sup>&#8224;</sup>, Muhan Zhang</div>
   </div>
 
   <div class="pub-item">
